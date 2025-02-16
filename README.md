@@ -7,7 +7,7 @@ I break things. Then I fix them. Then I break them again.
 
 ---
 
-## // Interests  
+## Interests  
 - MUSIC THEORY
 - Arena FPS. Warfork, Quake, Reflex. Fast, brutal, and unforgiving.  
 - Creative coding. Generative art. Math that makes things move.  
@@ -16,7 +16,7 @@ I break things. Then I fix them. Then I break them again.
 
 ---
 
-## // Currently  
+## Currently  
 - Writing a **Warfork map editor** because the tools we have suck.  
 - Learning **Astro and Go** for fun (and pain).  
 - Modding **Balatro** because sometimes you just have to.  
@@ -24,7 +24,7 @@ I break things. Then I fix them. Then I break them again.
 
 ---
 
-## // Collaboration  
+## Collaboration  
 - You a music or audio nerd? I'M IN!
 - You have an FPS project? I’m listening.  
 - You have an audio DSP idea? Let’s talk.  
@@ -32,13 +32,13 @@ I break things. Then I fix them. Then I break them again.
 
 ---
 
-## // Contact  
+## Contact  
 - **Discord** – If you know, you know.  
 - **Carrier pigeon** – No promises.  
 
 ---
 
-## // Fun Fact  
+## Fun Fact  
 I once spent way too long thinking about **using Eigenvalues in VST-based spectral noise reduction**.  
 Now I can’t stop.  
 
