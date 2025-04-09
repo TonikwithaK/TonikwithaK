@@ -18,8 +18,7 @@ I break things. Then I fix them. Then I break them again.
 
 ## Currently  
 - Writing a **Warfork map editor** because the tools we have suck.  
-- Learning **Astro and Go** for fun (and pain).  
-- Modding **Balatro** because sometimes you just have to.  
+- Modding **Balatro**.
 - Running **TARP (The Arena Revival Project)** because someone has to.  
 
 ---
@@ -38,9 +37,7 @@ I break things. Then I fix them. Then I break them again.
 
 ---
 
-## Fun Fact  
 I once spent way too long thinking about **using Eigenvalues in VST-based spectral noise reduction**.  
-Now I can’t stop.  
 
 ---
 
