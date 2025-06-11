@@ -17,9 +17,9 @@ I break things. Then I fix them. Then I break them again.
 ---
 
 ## Currently  
-- Writing a **Warfork map editor** because the tools we have suck.  
-- Modding **Balatro**.
-- Running **TARP (The Arena Revival Project)** because someone has to.  
+- Running **TARP (The Arena Revival Project)**.  
+- Stalking your GitHub Repo for bad code.
+- +bomb
 
 ---
 
@@ -37,7 +37,7 @@ I break things. Then I fix them. Then I break them again.
 
 ---
 
-I once spent way too long thinking about **using Eigenvalues in VST-based spectral noise reduction**.  
+**using Eigenvalues in VST-based spectral noise reduction could be cool if anyone wants to help**.  
 
 ---
 
